@@ -1,2 +1,2 @@
 # MathematicalProgramming
-Practicals, Projects and Exams in Mathematical Programming
+Practicals, Projects and Exams in Mathematical Programming.
